@@ -1,3 +1,6 @@
 Git test from shell.
 【実験】
 追跡リポジトリと上流リポジトリを設定しないでdevelog branchをpushしたらどうなるか？
+
+git push --set-upstream origin develop
+の後でgit pushでうまくアップデートできるか確認．
