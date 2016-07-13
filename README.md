@@ -35,6 +35,10 @@ or push an existing repository from the command line
 行末にスペースを2つ入れると  
 改行されます。
 
+``` ruby
+puts 'ruby comment OK?'
+```
+
 段落を分けるには、[空行](http://example.com/) を入れます。
 
 ## 使い方
